@@ -20,6 +20,17 @@
     background-repeat: no-repeat;
     background-position: bottom right, left;
 }
+.contact-btn{
+    padding: 12px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    background: none;
+    border: 1px solid #FD6E0A;
+    margin-left: 10px;
+    color: #FD6E0A;
+    font-weight: 700;
+
+}
 /* header part section */
 .nav-title{
     font-weight: 800;
