@@ -180,3 +180,51 @@ main{
     text-align: center;
     margin-top: 50px;
 }
+/* footer section */
+.footer-section{
+    display: flex;
+    margin-top: 100px;
+    padding: 100px 130px;
+    background: #FFF8F3;
+    justify-content: space-between;
+}
+.icon-part{}
+.icon-txt{
+    width: 570px;
+}
+.icon-part h2,
+.form-part h2{
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+}
+.icon-part p{
+    margin-bottom: 30px;
+    color: #474747;
+    font-size: 16px;
+}
+.icon-part ul{
+    list-style: none;
+    display: flex;
+}
+.icon-part ul li{
+    
+}
+.icon-part ul li img{
+    padding: 0px 10px;
+   
+}
+.form-part{}
+form{}
+form input,
+textarea{
+    display: block;
+    margin: 10px 0px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: #fff;
+    width: 250px;
+    font-size: 20px;
+
+}
